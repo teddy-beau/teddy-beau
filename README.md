@@ -2,7 +2,7 @@
 
 ## Who I am
 
-**I'm a full-stack web and mobile developer based in Paris, France.**
+**I'm a full-stack web and mobile developer based in Paris, France.** 🇫🇷 
 
 After 4 years working in marketing for the B2B tech industry I decided to make a career switch to web development! 🚀 
 
