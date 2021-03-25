@@ -11,10 +11,10 @@ I realized I wanted to work on more concrete, technical projects. I have since w
 I'm currently looking for my next job opportunity as a developper! 👨‍💼 
 
 ## What I do
-- ⚛️ React
-- 📱 React Native with Expo
-- ⚙️ NodeJS with Express
-- 💾 MongoDB
+- ⚛️&nbsp;&nbsp;React
+- 📱&nbsp;&nbsp;React Native with Expo
+- ⚙️&nbsp;&nbsp;NodeJS with Express
+- 💾&nbsp;&nbsp;MongoDB
 
 ## Where to find me
 
