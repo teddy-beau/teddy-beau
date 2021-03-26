@@ -15,7 +15,7 @@ I'm currently looking for my next job opportunity as a developper! 👨‍💼
 - 📱&nbsp;&nbsp;React Native with Expo
 - ⚙️&nbsp;&nbsp;NodeJS with Express
 - 💾&nbsp;&nbsp;MongoDB
-- and also some Redux, Gatsby, NextJS, Jest, Sass
+- and also some Redux, Gatsby, NextJS, Jest, Sass and more!
 
 ## Where to find me
 
