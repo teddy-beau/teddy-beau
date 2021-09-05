@@ -12,8 +12,8 @@ I realized I wanted to work on more concrete, technical projects. I have since w
 - ⚛️&nbsp;&nbsp;React and NextJS
 - 📱&nbsp;&nbsp;React Native with Expo
 - ⚙️&nbsp;&nbsp;NodeJS with Express
-- 💾&nbsp;&nbsp;MongoDB
-- and also some Redux, Gatsby, Jest, and more!
+- 💾&nbsp;&nbsp;MongoDB & MySQL
+- and also some TypeScript, Gatsby, Jest, and more!
 
 ## Where to find me
 
