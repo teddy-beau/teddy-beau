@@ -21,7 +21,7 @@ I realized I wanted to work on more concrete, technical projects. I have since w
 - [Project portfolio](https://teddy-beau.com/)
 
 ## What I'm currently doing
-Beside my current job at French insurtech startup [Acheel](https://www.acheel.com/) I'm working on a personal project that consists in a new and enhanced version of the website of a cheesemaker. The old website is a simple Wordpress but the new version is built with Next.js and comes with a tailored admin back-office. The main features include:
+Beside my current job at French proptech startup [Zefir](https://www.zefir.fr/) I'm working on a personal project that consists in a new and enhanced version of the website of a cheesemaker. The old website is a simple Wordpress but the new version is built with Next.js and comes with a tailored admin back-office. The main features include:
 - Static and server side rendered pages
 - Shopping cart allowing to place an order
 - Order confirmation email sent to customer and admin with Nodemailer
