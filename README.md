@@ -2,18 +2,18 @@
 
 ## About me
 
-**I'm a full-stack web and mobile developer based in Paris, France.** 🇫🇷 
+**I'm a full-stack web and mobile developer based in Lyon, France.** 🇫🇷 
 
-After 4 years working in marketing for the B2B tech industry I decided to make a career switch to web development! 🚀 
+After several years working in marketing for the B2B tech industry I decided to make a career switch to web development! 🚀 
 
 I realized I wanted to work on more concrete, technical projects. I have since worked on developing these skills with a focus on JavaScript + TypeScript and the React.js and React Native frontend libraries, but I also work with NodeJS for the backend. 👨‍💻 
 
 ## What I do
 - ⚛️&nbsp;&nbsp;React.js with Next.js
 - 📱&nbsp;&nbsp;React Native with Expo
-- ⚙️&nbsp;&nbsp;Node.js with Express 
-- 💾&nbsp;&nbsp;MongoDB & MySQL
-- and also some Jest and more!
+- ⚙️&nbsp;&nbsp;Node.js with Express and Nest
+- 💾&nbsp;&nbsp;MongoDB & MySQL/Postgre
+- 🧪&nbsp;&nbsp;Jest, Playwright
 
 ## Where to find me
 
